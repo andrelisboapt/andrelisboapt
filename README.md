@@ -5,7 +5,7 @@
     <img alt="auto type" src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer&font=Fira%20Code&color=%44AA99&center=true&width=280&height=50">
 </p>
 
-Greetings! I'm André Lisboa, a **Junior Full-Stack Developer** based in Lisbon, Portugal. Although my academic background is in Sociology and Marketing Management, my passion for technology led me to shift gears and pursue a career in Web Development. I recently completed an intensive Web Development Bootcamp at Ironhack, where I gained hands-on experience and skills in various web technologies. If you want to learn more about my professional background and skills, feel free to check out my LinkedIn profile.
+Greetings! I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon, Portugal. Although my academic background is in Sociology and Marketing Management, my passion for technology led me to shift gears and pursue a career in Web Development. I recently completed an intensive Web Development Bootcamp at Ironhack, where I gained hands-on experience and skills in various web technologies. If you want to learn more about my professional background and skills, feel free to check out my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelisboapt/)
 
@@ -15,7 +15,6 @@ Greetings! I'm André Lisboa, a **Junior Full-Stack Developer** based in Lisbon,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
