@@ -44,10 +44,10 @@ Greetings! I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon, Por
 ## Stats
 <div>
 
-<img height="74vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelisboapt&layout=compact&langs_count=7&theme=dark"/>
+<img height="74px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelisboapt&layout=compact&langs_count=7&theme=dark"/>
 
 
-<img height="74vh" src="https://github-readme-stats.vercel.app/api?username=andrelisboapt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="74px" src="https://github-readme-stats.vercel.app/api?username=andrelisboapt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> 
   
 
