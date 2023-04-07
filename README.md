@@ -9,7 +9,7 @@ Greetings 👋 I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon,
 
 🔥 Recent Projects: <a href="https://andrelisboapt.github.io/Wizzards_and_Demons/">Wizzards and Demons Game</a> • <a href="https://cryptohacker.cyclic.app/">CryptoHacker Web App</a> • <a href="https://creaite.netlify.app/">CreAIte Web App</a>
 
-<br>
+
 
 ## 🗨 Let's have a chat:
 
@@ -17,7 +17,7 @@ Greetings 👋 I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon,
 [![Gmail Badge](https://img.shields.io/badge/-andremeirelespt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andremeirelespt@gmail.com)](mailto:andremeirelespt@gmail.com)
 
 
-<br>
+
 
 
 ## 💻 Stack:
@@ -45,7 +45,7 @@ Greetings 👋 I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon,
 
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br>
+
 
 ## 📊 Stats
 <div>
