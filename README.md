@@ -37,14 +37,14 @@ Greetings! I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon, Por
 
 - 🚀 I’m currently learning ...
 
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
 ## Stats
 
 
-![andrelisboapt's Stats](https://github-readme-stats.vercel.app/api?username=andrelisboapt&show_icons=true&theme=prussian)
+![andrelisboapt's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelisboapt&layout=compact&langs_count=7&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelisboapt&hide=TeX&layout=compact&theme=prussian)
