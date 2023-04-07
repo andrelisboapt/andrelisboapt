@@ -24,14 +24,14 @@ Greetings! I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon, Por
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![<Rest API>](https://img.shields.io/badge/-RestAPI-2287c9?style=flat&logo=cyclic&logoColor=white)
-![<Cloudinary>](https://img.shields.io/badge/-Cloudinary-2287c9?style=flat&logo=cloudinary&logoColor=white)
+![Rest API](https://img.shields.io/badge/-RestAPI-2287c9?style=flat&logo=cyclic&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-2287c9?style=flat&logo=cloudinary&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![<Cyclic>](https://img.shields.io/badge/-Cyclic-2287c9?style=flat&logo=cyclic&logoColor=white)
+![Cyclic](https://img.shields.io/badge/-Cyclic-2287c9?style=flat&logo=cyclic&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
@@ -44,10 +44,10 @@ Greetings! I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon, Por
 ## Stats
 
 
-![andrelisboapt's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelisboapt&layout=compact&langs_count=7&theme=dark)
+![andrelisboapt Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelisboapt&layout=compact&langs_count=7&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelisboapt&hide=TeX&layout=compact&theme=prussian)
+![andrelisboapt's Stats](https://github-readme-stats.vercel.app/api?username=andrelisboapt&show_icons=true&theme=dark&include_all_commits=true&count_private=true))
   
   
 
