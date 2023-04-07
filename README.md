@@ -8,6 +8,10 @@
 Greetings! I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon, Portugal. Although my academic background is in Sociology and Marketing Management, my passion for technology led me to shift gears and pursue a career in Web Development. I recently completed an intensive Web Development Bootcamp at Ironhack, where I gained hands-on experience and skills in various web technologies. If you want to learn more about my professional background and skills, feel free to check out my LinkedIn profile.
 
 [![Linkedin Badge](https://img.shields.io/badge/-andrelisboapt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrelisboapt/)](https://www.linkedin.com/in/andrelisboapt/)
+[![Gmail Badge](https://img.shields.io/badge/-andremeirelespt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andremeirelespt@gmail.com)](mailto:andremeirelespt@gmail.com)
+
+<hr>
+
 
 
 ## Skills
