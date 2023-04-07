@@ -17,9 +17,10 @@ Greetings! I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon, Por
 ## Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-6DA55F?style=flat&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -29,7 +30,7 @@ Greetings! I'm André Lisboa, a **Junior Full-Stack Developer** from Lisbon, Por
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![<Rest API>](https://img.shields.io/badge/-RestAPI-2287c9?style=flat&logo=cyclic&logoColor=white)
 ![<Cloudinary>](https://img.shields.io/badge/-Cloudinary-2287c9?style=flat&logo=cloudinary&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![<Cyclic>](https://img.shields.io/badge/-Cyclic-2287c9?style=flat&logo=cyclic&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
